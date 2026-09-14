@@ -1,5 +1,5 @@
 /*!
- * HXM.js v1.0.1
+ * HXM.js v1.0.2
  * https://www.teameet.cc
  * (c) 2026 HXM.js Contributors
  * Released under the MIT License
