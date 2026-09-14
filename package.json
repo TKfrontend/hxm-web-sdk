@@ -1,0 +1,7 @@
+{
+  "name": "hxm-web-sdk",
+  "version": "0.0.6.2",
+  "main": "bundule.umd.js",
+  "author": "TKfrontend",
+  "license": "MIT"
+}
